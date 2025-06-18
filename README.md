@@ -44,10 +44,11 @@ Textos curtos, intensos e líricos — pra tocar e transbordar.
 - 🎨 Criatividade em UI/UX, escrita e comunicação  
 
 ### 🌐 Me encontra por aí
-📎 Portfólio Dev
-📖 Wattpad
-📸 Instagram Dev
-🧭 Beacons
+
+[📎 Portfólio Dev](https://seu-link-aqui.com)  
+[📖 Wattpad](https://www.wattpad.com/user/katlyndobrencios)  
+[📸 Instagram Dev](https://www.instagram.com/katlynvargasss/)  
+[🧭 Beacons](https://beacons.ai/seunome)
 
 ### 🌟 Uma frase que me guia:
 “Entre linhas de código e linhas de poesia, sigo construindo meu caminho.”
