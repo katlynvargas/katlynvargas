@@ -15,7 +15,7 @@ Escrevo histórias, desenvolvo projetos e acredito no poder de unir tecnologia e
 Atualmente estou:
 - 🌱 Estudando **Python, HTML, CSS e JavaScript**
 - 🔧 Desenvolvendo projetos como **Synapse** (IA para empresas) e **Serena** (app de acolhimento digital)
-- ✍️ Publicando livros no Wattpad como *Cartas para quem eu era* e *Sussurros da Minha Voz*
+- ✍️ Publicando livros no Wattpad como *Crônicas da Alma* e *Sussurros da Minha Voz*
 
 ---
 
