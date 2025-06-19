@@ -45,10 +45,10 @@ Textos curtos, intensos e líricos — pra tocar e transbordar.
 
 ### 🌐 Me encontra por aí
 
-[📎 Portfólio Dev](https://seu-link-aqui.com)  
-[📖 Wattpad](https://www.wattpad.com/user/katlyndobrencios)  
+[📎 Portfólio Dev](https://br.pinterest.com/katlynvargasssdev/projetos-de-desenvolvimento/) 
+[📖 Wattpad](https://www.wattpad.com/user/katlynvargasssdev)
 [📸 Instagram Dev](https://www.instagram.com/katlynvargasss/)  
-[🧭 Beacons](https://beacons.ai/seunome)
+[🧭 Beacons](https://beaconsai.com/katlynvargas)
 
 ### 🌟 Uma frase que me guia:
 “Entre linhas de código e linhas de poesia, sigo construindo meu caminho.”
