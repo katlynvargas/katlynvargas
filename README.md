@@ -45,9 +45,9 @@ Textos curtos, intensos e líricos — pra tocar e transbordar.
 
 ### 🌐 Me encontra por aí
 
-[📎 Portfólio Dev](https://br.pinterest.com/katlynvargasssdev/projetos-de-desenvolvimento/) 
+[📎 Portfólio](https://br.pinterest.com/katlynvargasssdev/projetos-de-desenvolvimento/) 
 [📖 Wattpad](https://www.wattpad.com/user/katlynvargasssdev)
-[📸 Instagram Dev](https://www.instagram.com/katlynvargasss/)  
+[📸 Instagram](https://www.instagram.com/katlynvargasss/)  
 [🧭 Beacons](https://beaconsai.com/katlynvargas)
 
 ### 🌟 Uma frase que me guia:
